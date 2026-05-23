@@ -11,10 +11,14 @@
             "id": "165a8cd7c80e3c20",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "notes/azure-ai-103-microsoft-learn.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "azure-ai-103-microsoft-learn"
             }
           }
         ]
@@ -165,6 +169,8 @@
   },
   "active": "165a8cd7c80e3c20",
   "lastOpenFiles": [
+    "daily/2026-05-23.md",
+    "attachments/Pasted image 20260523123610.png",
     "index.md",
     "index.md.tmp.841219.c0dc96fe5b10",
     "maps/lifestyle.md",
@@ -197,8 +203,6 @@
     "notes/azure-container-instance.md",
     "notes/azure-blueprint.md",
     "notes/azure-authentication-authorization.md",
-    "notes/app-service.md",
-    "attachments/Pasted image 20260523123610.png",
     "attachments",
     "maps",
     "notes",

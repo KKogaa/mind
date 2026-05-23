@@ -13,3 +13,16 @@ The projects are used to manage assts such as:
 - Knowledge
 
 ## Foundry Tools
+- Azure language: provides models and APIs that you can use to analyze natural language text and perform tasks such as entity extraction, sentiment analysis and summarization. Azure language also provides functionality to help you build conversational language models and questions answering solutions.
+- Azure Speech: provides APIs that you can use to implement text to speech and speech to text transformation, as well as real time live speech for conversational apps and agents.
+- Azure Translator: state of the art language models to translate text between a large number of languages.
+- Azure Document Intelligence: pre built custom models to extract fields from complex documents such as invoices, receipts, and forms.
+- Azure Content Understanding: provides multi-modal content analysis capabilities that enable you to build models to extract data from forms and documents, images, videos, and audio streams.
+
+## Responsible AI
+- Fairness
+- Reliability and safety
+- Privacy and security
+- Inclusiveness
+- Transparency
+- Accountability
