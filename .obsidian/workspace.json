@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "927be1f583ada659",
+        "id": "0df0b144d236b81a",
         "type": "tabs",
         "children": [
           {
-            "id": "a9fdf8c6acf32338",
+            "id": "165a8cd7c80e3c20",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/certifications/azure/azure-ai-103/Microsoft Learn.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Microsoft Learn"
+              "title": "New tab"
             }
           }
         ]
@@ -167,20 +163,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a9fdf8c6acf32338",
+  "active": "165a8cd7c80e3c20",
   "lastOpenFiles": [
+    "2026-05-23.md",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.base",
+    "zettelkasten/certifications/azure/azure-ai-103/Microsoft Learn.md",
     "Pasted image 20260523123610.png",
     "zettelkasten/things-todo/roadmap.md",
     "zettelkasten/things-todo/short-term-goals.md",
     "zettelkasten/things-todo/things-todo.md",
     "zettelkasten/things-todo/work-things-todo.md",
-    "zettelkasten/certifications/azure/azure-ai-103/Microsoft Learn.md",
     "zettelkasten/things-todo/carla.md",
     "zettelkasten/certifications/azure/azure-ai-103",
     "zettelkasten/certifications/azure/azure-developer-associate/azure-container-instance.md",
     "zettelkasten/certifications/azure/azure-developer-associate/azure-authentication-authorization.md",
-    "Untitled 1.base",
-    "Untitled.base",
     "mind/zettelkasten/things-todo/carla.md",
     "mind/zettelkasten/certifications/azure/azure-developer-associate/azure-storage.md",
     "mind/zettelkasten/certifications/azure/azure-developer-associate/azure-cosmos-db.md",
@@ -203,7 +201,6 @@
     "mind/mind/mind/mind/mind/mind/mind/mind/mind/mind/zettelkasten/certifications/azure",
     "mind/mind/mind/mind/mind/mind/mind/mind/mind/zettelkasten/programming/deep-learning",
     "mind/mind/mind/mind/mind/mind/mind/zettelkasten/programming/competitive-programming",
-    "mind/mind/mind/mind/mind/mind/mind/mind/mind/mind/mind/mind/mind/mind/zettelkasten",
-    "mind/mind/mind/mind/mind/mind/mind/mind/mind/mind/mind/zettelkasten/certifications"
+    "mind/mind/mind/mind/mind/mind/mind/mind/mind/mind/mind/mind/mind/mind/zettelkasten"
   ]
 }
