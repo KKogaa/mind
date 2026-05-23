@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "5778a7a323db63be",
+    "type": "split",
+    "children": [
+      {
+        "id": "927be1f583ada659",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9fdf8c6acf32338",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/certifications/azure/azure-ai-103/Microsoft Learn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Microsoft Learn"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dda7f09f7d9d06bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a1f0e3beb305c91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0df21922e7d05712",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5dadf0da64f7f366",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d2222cfc2e984f60",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2e7629dc7767176d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7c3a35ba8fd5e9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f972fe7b2cedb43",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "91aefcc5ace10b06",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0e46cabe21d5ee12",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7abb343d3273fe96",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a9fdf8c6acf32338",
+  "lastOpenFiles": [
+    "Pasted image 20260523123610.png",
+    "zettelkasten/things-todo/roadmap.md",
+    "zettelkasten/things-todo/short-term-goals.md",
+    "zettelkasten/things-todo/things-todo.md",
+    "zettelkasten/things-todo/work-things-todo.md",
+    "zettelkasten/certifications/azure/azure-ai-103/Microsoft Learn.md",
+    "zettelkasten/things-todo/carla.md",
+    "zettelkasten/certifications/azure/azure-ai-103",
+    "zettelkasten/certifications/azure/azure-developer-associate/azure-container-instance.md",
+    "zettelkasten/certifications/azure/azure-developer-associate/azure-authentication-authorization.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "mind/zettelkasten/things-todo/carla.md",
+    "mind/zettelkasten/certifications/azure/azure-developer-associate/azure-storage.md",
+    "mind/zettelkasten/certifications/azure/azure-developer-associate/azure-cosmos-db.md",
+    "mind/zettelkasten/certifications/azure/azure-developer-associate/exam-questions.md",
+    "mind/zettelkasten/certifications/azure/azure-developer-associate/azure-service-health.md",
+    "mind/zettelkasten/certifications/azure/azure-developer-associate/app-service.md",
+    "mind/zettelkasten/certifications/azure/azure-developer-associate/azure-vpn-gateway.md",
+    "mind/zettelkasten/certifications/azure/azure-developer-associate/azure-authentication-authorization.md",
+    "mind/zettelkasten/certifications/azure/azure-developer-associate/azure-functions.md",
+    "mind/zettelkasten/certifications/azure/azure-developer-associate/compute-solutions.md",
+    "mind/zettelkasten/things-todo/short-term-goals.md",
+    "mind/zettelkasten/things-todo/bcp-lead.md",
+    "mind/zettelkasten/certifications/azure/azure-developer-associate/azure-service-trust-portal.md",
+    "mind/zettelkasten/certifications/azure/azure-developer-associate/azure-container-instance.md",
+    "mind/zettelkasten/things-todo/work-things-todo.md",
+    "mind/zettelkasten/certifications/azure/azure-developer-associate/azure-migrate.md",
+    "mind/zettelkasten/things-todo/things-todo.md",
+    "mind/mind/mind/mind/mind/mind/mind/mind/mind/mind/mind/mind/mind/zettelkasten/chess",
+    "mind/mind/mind/mind/mind/mind/mind/mind/mind/mind/zettelkasten/programming/projects",
+    "mind/mind/mind/mind/mind/mind/mind/mind/mind/mind/zettelkasten/certifications/azure",
+    "mind/mind/mind/mind/mind/mind/mind/mind/mind/zettelkasten/programming/deep-learning",
+    "mind/mind/mind/mind/mind/mind/mind/zettelkasten/programming/competitive-programming",
+    "mind/mind/mind/mind/mind/mind/mind/mind/mind/mind/mind/mind/mind/mind/zettelkasten",
+    "mind/mind/mind/mind/mind/mind/mind/mind/mind/mind/mind/zettelkasten/certifications"
+  ]
+}

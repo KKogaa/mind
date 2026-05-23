@@ -1,0 +1,12 @@
+- create azure function in python using sqlalchemy, do a things bought api
+- make finance tracker for each month, starting today better  (at first just use an excel at the end of each day)
+- make the finance tracker to calculate also the cash flow
+- track the total money of all accounts 
+- in the future create a website for this using angular. (use standalone components)
+- buy trash can for cat, (tried but not found, do this online)
+- buy case for earbuds 3 pro
+- buy vr lens
+- format other laptop to work as homelab
+- make the laptop run on no sleep mode
+- deploy streaming service on homelab 
+- revive old external hard drive that contains the homelab.
