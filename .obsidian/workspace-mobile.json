@@ -25,14 +25,14 @@
             "id": "355ffd51151e8dd9",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/obsidian-git/data.json",
-                "bFile": ".obsidian/plugins/obsidian-git/data.json",
-                "aRef": ""
+                "file": "test.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff: data.json"
+              "icon": "lucide-file",
+              "title": "test"
             }
           }
         ],
@@ -113,6 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "test.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,6 +132,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "test.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -144,6 +146,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "test.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
