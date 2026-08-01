@@ -1,3 +1,9 @@
+---
+title: Short Term Goals
+tags: [goals, learning, certification]
+up: "[[goals]]"
+---
+
 # Competitive programming
 - do this using Java 
 - do a leetcode medium once per day
@@ -27,3 +33,12 @@ Mentors
 https://mentorcruise.com/mentor/rickhuang/?source=landing
 
 I've been a software engineering/CS mentee for a long time (2+ years) and used several platforms for mentorship: Preply, TakeLessons, etc.
+
+## Related
+
+- [[career-roadmap]] — the longer arc these feed.
+- [[competitive-programming-roadmap]] — the topic list behind the competitive-programming goals.
+- [[azure]] — the Azure certification track, currently active.
+- [[cash-flow]] — what the finance tracking app is for.
+- [[project-ideas]] — overlapping build ideas.
+- [[things-todo]] — the near-term slice.

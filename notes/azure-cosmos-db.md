@@ -1,3 +1,11 @@
+---
+title: Azure Cosmos DB
+tags: [azure, azure-developer-associate, cloud, database]
+up: "[[azure]]"
+---
+
+# Azure Cosmos DB
+
 ## Promises of Cosmos DB
 - Cosmos db can be globally distributed across the world.
 - The closer the users are to the data source, the faster the responses will be.
@@ -33,3 +41,10 @@ Offers five well defined consistency levels.
 - Consistent Prefix: Adds ordering guarantees on top of eventual consistency. This means that if you see write operations A, B and C, you will never see A and C without seeing B, preserving the order of operations.  (Ensures that you see things in the correct order).
 - Bounded Staleness: Adds time and operation bounds on top of consistent prefix. When configured reads are guaranteed to have a staleness (expiration time) less than the configured bounds. Allows you to configure how far begind reads can be in terms of operations. (Like agreeing that you are ok with seeing information that is slightly outdated).
 - Session consistency: Is the default level applied to CosmosDB. When working with session consistency each new write request to azure cosmosdb is assigned a new session token. This level of consistency honors the client session. It ensures strong consistency for an application session with the same session token. (Ensures that if you make a change, you'll always see your own changes, you'll always see what you wrote but others might see an older version).
+
+## Related
+
+- [[azure-storage]] — the blob/table alternative; Table API is the same wire format as Azure Table storage.
+- [[azure-functions]] — Cosmos DB bindings and the change feed trigger.
+- [[azure-authentication-authorization]] — RBAC and key-based access to the account.
+- [[exam-questions]] — partitions, supported APIs, and consistency levels all appear here.

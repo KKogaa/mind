@@ -1,3 +1,11 @@
+---
+title: Exam Questions
+tags: [azure, azure-developer-associate, certification, practice]
+up: "[[azure]]"
+---
+
+# Exam Questions
+
 - Which command can you use to deploy a new azure container app?
 az containerapp create --resource-group myRg --name myContainerApp
 
@@ -54,3 +62,9 @@ Eventual Consistency.
 
 - When you enable static website hosting in Azure Storage, a blob storage conainer is required to store all the files related to your site. What is the name of this container?
 $web. You will need a file that acts as a homepage, which is often named index.html, but this is not the name of the container, it should be $web.
+
+## Related
+
+- [[app-service]], [[azure-functions]], [[azure-container-instance]], [[compute-solutions]] — compute answers.
+- [[azure-storage]], [[azure-cosmos-db]] — data answers.
+- [[azure-study-todo]] — gaps these questions exposed.

@@ -1,4 +1,11 @@
-#azure-developer-associate #cloud #azure 
+---
+title: Azure App Service
+tags: [azure, azure-developer-associate, cloud, compute]
+up: "[[azure]]"
+---
+
+# Azure App Service
+
 Azure app service allows you to quickly build web apps and apis without relying on the underlying host.
 
 ## App service features
@@ -70,3 +77,12 @@ By default you will already have a production slot running after deploying to ap
 - Manual.
 - Automated.
 - Deployment slots.
+
+## Related
+
+- [[compute-solutions]] — App Service is the PaaS tier of the shared responsibility model.
+- [[azure-functions]] — shares the App Service plan as its scale unit.
+- [[azure-container-instance]] — the container-first alternative.
+- [[microsoft-entra-id]] — backs the built-in authentication option.
+- [[azure-monitor]] — where diagnostic logs and metrics land.
+- [[exam-questions]] — deployment slots and the S1 tier show up here.

@@ -1,3 +1,11 @@
+---
+title: Azure Service Health
+tags: [azure, azure-developer-associate, cloud, observability]
+up: "[[azure]]"
+---
+
+# Azure Service Health
+
 Azure Service Health is a suite of experiences that provides personalized guidance and support when issues with Azure services affect you.
 ## What is Azure Service Health?
 Azure Service Health gives you a personalized view of the health of Azure services and regions you're using. It provides proactive notifications, guidance, and support when service issues occur, helping you understand how Azure service problems might impact your specific resources.
@@ -30,3 +38,8 @@ Service Health maintains a history of service issues, so you can review past inc
 You receive advance notice of planned maintenance that might affect your resources.
 ### Root Cause Analysis
 After incidents are resolved, Microsoft often provides detailed root cause analysis reports explaining what happened and what steps are being taken to prevent similar issues.
+
+## Related
+
+- [[azure-monitor]] — Service Health notifications are stored in the Activity Log and alert through Azure Monitor.
+- [[azure-service-trust-portal]] — the compliance-facing counterpart to this operational view.

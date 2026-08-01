@@ -1,7 +1,22 @@
+---
+title: Programming
+tags: [moc, programming]
+up: "[[index]]"
+---
+
 # Programming
 
-- [[competitive-programming-roadmap]]
-- [[project-ideas]]
+## Practice
 
-## Related
-- [[azure]] — cloud/dev certifications
+- [[competitive-programming-roadmap]] — topic list and resources.
+
+## Building
+
+- [[project-ideas]]
+- [[short-term-goals]] — the development section is the current build queue.
+- [[things-todo]] — smaller build items.
+
+## Related maps
+
+- [[azure]] — cloud and dev certifications.
+- [[goals]] — where the practice commitments are tracked.

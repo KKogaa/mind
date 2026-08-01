@@ -1,3 +1,11 @@
+---
+title: Things Todo
+tags: [todo, personal]
+up: "[[goals]]"
+---
+
+# Things Todo
+
 - create azure function in python using sqlalchemy, do a things bought api
 - make finance tracker for each month, starting today better  (at first just use an excel at the end of each day)
 - make the finance tracker to calculate also the cash flow
@@ -10,3 +18,11 @@
 - make the laptop run on no sleep mode
 - deploy streaming service on homelab 
 - revive old external hard drive that contains the homelab.
+
+## Related
+
+- [[cash-flow]] — what the finance tracker is being built to track.
+- [[short-term-goals]] — the fuller version of the finance-app plan.
+- [[azure-functions]] — the "things bought api" idea.
+- [[work-things-todo]] — work counterpart.
+- [[project-ideas]] — larger ideas that graduate from here.

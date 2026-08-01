@@ -1,4 +1,11 @@
-#azure-developer-associate #cloud #azure 
+---
+title: Azure Functions
+tags: [azure, azure-developer-associate, cloud, serverless, compute]
+up: "[[azure]]"
+---
+
+# Azure Functions
+
 ## Coding and deploying azure functions
 Serverless isn't a one sized fit all for everything you need to do in a cloud. It is best for lightweight and flexible app or with inconsistent spikes. 
 ### Understanding serverless benefits
@@ -38,3 +45,12 @@ The recommendation is to deploy apps on the consumption plan for development and
 - Dedicated plan
 - App service environment
 - Kubernetes
+
+## Related
+
+- [[app-service]] — Functions run on App Service plans; the Dedicated plan is literally an App Service plan.
+- [[compute-solutions]] — where serverless sits among the hosting options.
+- [[azure-storage]] — the most common trigger and binding source.
+- [[azure-cosmos-db]] — another common binding target.
+- [[exam-questions]] — trigger types and `function.json` come up here.
+- [[things-todo]] — "create azure function in python using sqlalchemy".

@@ -1,3 +1,11 @@
+---
+title: Azure Service Trust Portal
+tags: [azure, azure-developer-associate, cloud, compliance]
+up: "[[azure]]"
+---
+
+# Azure Service Trust Portal
+
 The Azure Service Trust Portal is Microsoft's public portal that provides transparency about Azure's security, privacy, and compliance practices.
 
 ## What is the Service Trust Portal?
@@ -12,3 +20,9 @@ You can find whitepapers, FAQs, and detailed documentation about Microsoft appro
 
 ### Industry and Regional Compliance
 The portal organizes compliance information by industry and by region to help you understand how Azure meets specific regulatory requirements in your sector or location.
+
+## Related
+
+- [[azure-service-health]] — the operational counterpart to this compliance view.
+- [[responsible-ai]] — the AI-specific side of the same trust story.
+- [[azure-study-todo]] — "recap azure trust center" is tracked there.

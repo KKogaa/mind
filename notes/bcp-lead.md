@@ -1,4 +1,15 @@
-# Funcionalidades 
+---
+title: BCP Lead
+tags: [work, project, bcp]
+up: "[[goals]]"
+---
+
+# BCP Lead
+
+Alcance funcional y preguntas abiertas para el lead financiero.
+
+## Funcionalidades
+
 - registro de usuario
 	- formulario de registro (controlado por BCP)
 - validacion de KYC
@@ -21,7 +32,7 @@
 - cupones/puntos/promociones (no cuentan)
 - pago de servicios
 
-Preguntas a lead financial
+## Preguntas a lead financiero
 - Podrían compartir la documentación técnica completa de la lista de widgets disponibles?
 - Cuáles son los formatos de datos de entrada y salida para cada widget?
 - Se pueden hacer modificaciones (agregar o remover) sobre los campos de entrada o salida de cada widget?
@@ -31,4 +42,11 @@ Preguntas a lead financial
 - El widget de registro de usuario es desacoplable de la biometria y kyc? 
 - Tienen apis/webhooks para revisar el estado de las transacciones?
 
+## Notas
+
 - integracion servidor a servidor para asegurar prueba de vida
+
+## Related
+
+- [[work-things-todo]] — day-to-day work items.
+- [[career-roadmap]] — current client work.

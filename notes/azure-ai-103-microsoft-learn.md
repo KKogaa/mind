@@ -1,28 +1,41 @@
-## Microsoft Foundry
-Microsoft Foundry is a platform for AI development on Azure. While you can provision individual AI resources and build applications that consume them without it, the project organization, resource management, and AI development capabilities of MF makes it the recommended way to build all but the most simple solutions. Provides the MF portal, and also MF SDK which you can use to build AI solutions programmatically.
+---
+title: Azure AI Engineer (AI-102) — Microsoft Learn
+tags: [azure, ai, ai-102, certification, moc]
+up: "[[azure]]"
+---
 
-### Microsoft Foundry projects
-In MF you can manage the resource connections, data, code and other elements of the AI solution in a project. Each project belongs to a single MF resource in Azure, which provides compute, data storage, AI tools, and other services.
+# Azure AI Engineer (AI-102) — Microsoft Learn
 
-![[Pasted image 20260523123610.png]]
+Study hub following the Microsoft Learn path. Content that overlapped with [[azure-ai-901]] has been pulled into shared atomic notes rather than duplicated here.
 
-The projects are used to manage assts such as:
-- Models
-- Agents
-- Tools
-- Knowledge
+## Plan and manage an Azure AI solution
 
-## Foundry Tools
-- Azure language: provides models and APIs that you can use to analyze natural language text and perform tasks such as entity extraction, sentiment analysis and summarization. Azure language also provides functionality to help you build conversational language models and questions answering solutions.
-- Azure Speech: provides APIs that you can use to implement text to speech and speech to text transformation, as well as real time live speech for conversational apps and agents.
-- Azure Translator: state of the art language models to translate text between a large number of languages.
-- Azure Document Intelligence: pre built custom models to extract fields from complex documents such as invoices, receipts, and forms.
-- Azure Content Understanding: provides multi-modal content analysis capabilities that enable you to build models to extract data from forms and documents, images, videos, and audio streams.
+- [[microsoft-foundry]] — the platform, projects, and the Foundry Tools catalog.
+- [[responsible-ai]] — the six principles, which are assessed on this exam too.
 
-## Responsible AI
-- Fairness
-- Reliability and safety
-- Privacy and security
-- Inclusiveness
-- Transparency
-- Accountability
+## Implement generative AI solutions
+
+- [[generative-ai-models]] — model selection, deployment options, inference parameters.
+- [[prompt-engineering]] — system and user prompts.
+- [[foundry-sdk]] — SDK choice, the two client types, code samples.
+
+## Implement agentic solutions
+
+- [[foundry-agents]] — creating an agent, attaching tools, building a client.
+
+## Implement computer vision solutions
+
+- [[computer-vision]] — Azure AI Vision service.
+
+## Implement natural language processing solutions
+
+- [[text-analysis-nlp]] — Azure Language capabilities.
+- [[speech-ai]] — Azure Speech capabilities.
+
+## Implement knowledge mining and information extraction
+
+- [[information-extraction]] — Document Intelligence and Content Understanding.
+
+## Related
+
+- [[exam-questions]] — practice question bank.

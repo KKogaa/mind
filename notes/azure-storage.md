@@ -1,3 +1,11 @@
+---
+title: Azure Storage
+tags: [azure, azure-developer-associate, cloud, storage]
+up: "[[azure]]"
+---
+
+# Azure Storage
+
 ## Configuring Azure Blob Storage
 ### Standard vs premium
 - Premium isn't premium, it is just to mount storage for virtual machines.
@@ -53,3 +61,12 @@ Here you can obtain metadata from your container. You can also override metadata
 
 GET/HEAD https://storage-account/blob.core.windows.net/yourcontainer/ablob?comp=metadata
 Here you can obtain the metadata from your blob.
+
+## Related
+
+- [[azure-authentication-authorization]] — SAS tokens and the Storage Blob RBAC roles.
+- [[azure-cosmos-db]] — the NoSQL database alternative for structured data.
+- [[azure-functions]] — blob and queue triggers.
+- [[azure-container-instance]] — Azure Files for persistent container storage.
+- [[information-extraction]] — where extracted document data often lands.
+- [[exam-questions]] — tiers, blob types, lifecycle policies, and `$web` all appear here.

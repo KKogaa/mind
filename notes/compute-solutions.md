@@ -1,4 +1,11 @@
-#azure-developer-associate #cloud #azure 
+---
+title: Compute Solutions
+tags: [azure, azure-developer-associate, cloud, compute]
+up: "[[azure]]"
+---
+
+# Compute Solutions
+
 ## Leaving behind virtual machines
 ### Shared Responsibility model
 - On premises
@@ -30,6 +37,15 @@ For deploying on virtual machines there are many configurations.
 	- For example using the command az vm create.
 - Deploy using templates
 	- Deploy using any type of template that connects to azure.
-	
+
 ## Storing and sharing your containers
 
+See [[azure-container-instance]] for running them, and [[azure-study-todo]] for the Container Registry recap still pending.
+
+## Related
+
+- [[app-service]] — the PaaS option.
+- [[azure-functions]] — the serverless option.
+- [[azure-container-instance]] — the container option.
+- [[azure-blueprint]] — declarative deployment of whole environments.
+- [[exam-questions]] — the IaaS/PaaS/SaaS placement question lives here.

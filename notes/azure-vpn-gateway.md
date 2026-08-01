@@ -1,3 +1,11 @@
+---
+title: Azure VPN Gateway
+tags: [azure, azure-developer-associate, cloud, networking]
+up: "[[azure]]"
+---
+
+# Azure VPN Gateway
+
 ## What is Azure VPN Gateway?
 Azure VPN Gateway is specific type of virtual network gateway that sends encrypted traffic between your Azure virtual network and on-premises locations over the public internet. It enables hybrid connectivity between your cloud and on-premises infrastructure.
 
@@ -30,3 +38,9 @@ The VPN Gateway consists of two or more VMs deployed in a special subnet called 
 - After you set yp your own VPN gateways or servers, you must configure user-defined routes in the virtual network to ensure that traffic is routed properly between the on-premises networks and the virtual network subnets.
 - Azure generates different IPsec/IKE pre-shared keys to different VPN connections created for the same virtual network. This is done by default. However, you can use PowerShell cmdlets or the set VPN Gateway REST API to configure a custom key value.
 - Azure VPN gateways support 16-bit ASNs.
+
+## Related
+
+- [[azure-migrate]] — hybrid connectivity is usually a migration prerequisite.
+- [[azure-blueprint]] — vnet and gateway creation as an ARM template artifact.
+- [[azure-monitor]] — gateway metrics and diagnostics.

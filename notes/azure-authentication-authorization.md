@@ -1,3 +1,11 @@
+---
+title: Authentication and Authorization
+tags: [azure, azure-developer-associate, cloud, identity, security]
+up: "[[azure]]"
+---
+
+# Authentication and Authorization
+
 ## OAuth2
 How does OAuth2 work?
 User opens web app -> redirect to azure AD (if successful it returns a token to the user) -> the token allows to validate the user.
@@ -25,4 +33,10 @@ Are keys that grant permissions to storage resources, you can share this keys in
 - Service Level (More common): Delegates access a specific resource using account key: blob, queue, table, files
 - User Level (Preferred): Delegates access using Azure AD credentials to containers and blobs in Blob storage only.
 
+## Related
 
+- [[microsoft-entra-id]] — the authorization server in the OAuth2 flow above.
+- [[azure-storage]] — the SAS section applies directly to blob storage.
+- [[azure-resource-groups]] — the scope role assignments are made against.
+- [[app-service]] — built-in authentication implements this flow for you.
+- [[azure-blueprint]] — role assignments as a deployable artifact.

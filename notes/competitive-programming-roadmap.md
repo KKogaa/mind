@@ -1,4 +1,10 @@
-#programming #competitive-programming
+---
+title: Competitive Programming Roadmap
+tags: [programming, competitive-programming, roadmap]
+up: "[[programming]]"
+---
+
+# Competitive Programming Roadmap
 
 ## Trees
 ## Graphs
@@ -13,5 +19,8 @@ https://docs.google.com/spreadsheets/d/160pSXm76rNtEqj80HiuOqZDk_aKBx5PWnLGI8Vfz
 ### Blog entry from galen colin
 https://codeforces.com/blog/entry/97426
 
+## Related
 
-
+- [[short-term-goals]] — the daily-practice commitments.
+- [[career-roadmap]] — the interview-prep track.
+- [[project-ideas]] — where practice turns into portfolio work.
