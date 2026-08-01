@@ -27,8 +27,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,13 +153,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "4b24ba53a6c6c6ff",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,8 +183,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "743abe3166fd2f59",
+  "active": "4b24ba53a6c6c6ff",
   "lastOpenFiles": [
+    "test.md",
     "notes/azure-ai-901.md",
     "Pasted image 20260728145331.png",
     "Pasted image 20260728145258.png",
